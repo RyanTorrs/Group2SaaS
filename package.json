@@ -1,0 +1,17 @@
+{
+  "name": "untitled3",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^6.2.0",
+    "express": "^5.3.0",
+    "multer": "^2.5.0"
+  }
+}
